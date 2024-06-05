@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461925237553",
+    "project_id": "loginsignupwithotp-cb397",
+    "storage_bucket": "loginsignupwithotp-cb397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461925237553:android:f25c46e113b05b1d19e610",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvlPabGbl2NVglbvUJWU0eAdJr-kGolU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

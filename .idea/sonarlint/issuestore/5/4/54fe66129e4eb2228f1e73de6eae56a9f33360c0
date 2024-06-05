@@ -1,0 +1,16 @@
+
+wkotlin:S1172("2Use "_" instead of these unused lambda parameters.(Ê„Úù8‚½²ş1J$9a207cd8-5263-4c21-b7ce-9edb88f0d2c5
+wkotlin:S11721"2Use "_" instead of these unused lambda parameters.( ˆı8ƒ½²ş1J$cf3c6dcb-11c8-4396-9c5e-25a19e5cf5b8
+wkotlin:S1172:"2Use "_" instead of these unused lambda parameters.(„ÚÂã8ƒ½²ş1J$cf44cb58-2774-4ff4-9204-d008cd46133a
+|kotlin:S1172C"2Use "_" instead of these unused lambda parameters.(Ñ„üıÿÿÿÿ8…½²ş1J$b39c0b0b-5639-436e-91ea-407e65d1ce7f
+|kotlin:S1172L"2Use "_" instead of these unused lambda parameters.(Ù½»ıÿÿÿÿ8…½²ş1J$ffdafaec-7290-431e-94e2-c3fa862dd621
+|kotlin:S1172U"2Use "_" instead of these unused lambda parameters.(¿‹¯–ıÿÿÿÿ8‡½²ş1J$0cb3ab3d-8417-45d8-abab-710ac9c0eb71
+nkotlin:S1874„"#Deprecated code should not be used.(¼² Õûÿÿÿÿ8¢½²ş1J$460a2a75-9e79-40b7-9c94-e93cfa6efc52
+œkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¶Á»¬şÿÿÿÿ8¦½²ş1J$a7516b46-ccd7-4679-8c43-817d5f5f10bf
+vkotlin:S6529)"1Replace collection size check with "isNotEmpty()"(ïŒá”8ÃˆÇş1J$c6da684b-3ebd-4ef2-8007-d5dd59e84d36
+{kotlin:S6529,"1Replace collection size check with "isNotEmpty()"(ˆ”ŒÜşÿÿÿÿ8ÃˆÇş1J$8e6cc680-cab3-4b58-9ede-4557232ffdf0
+{kotlin:S65292"1Replace collection size check with "isNotEmpty()"(ˆ”ŒÜşÿÿÿÿ8ÃˆÇş1J$feca942c-5a09-4dd6-a468-178dbe1c4338
+vkotlin:S6529;"1Replace collection size check with "isNotEmpty()"(àê´õ8ÃˆÇş1J$2adc218e-8e9e-40b9-8f23-390bf6f2a079
+vkotlin:S6529D"1Replace collection size check with "isNotEmpty()"(ì°°Ù8ÃˆÇş1J$7ac793e3-9955-47ca-bf76-1f1f0d467a87
+vkotlin:S6529M"1Replace collection size check with "isNotEmpty()"(Üïü8ÃˆÇş1J$14ba638e-9d0b-4d83-83f5-7ed754abeecf
+wkotlin:S6519l"3Replace "!" and "equals" with binary operator "!=".(¹œ•a8±½²ş1J$f8b455d0-adb2-4e80-a5ce-0191f6270d67
